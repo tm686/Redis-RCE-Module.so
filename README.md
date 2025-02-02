@@ -1,8 +1,7 @@
 # Redis-RCE-Module.so
 Error message from the original module.c file from https://github.com/n0b0dyCN/RedisModules-ExecuteCommand
 ```
-$ sudo make                                  
-[sudo] password for kali: 
+$ make                                  
 make -C ./src
 make[1]: Entering directory '/home/kali/PG/wombo/2/RedisModules-ExecuteCommand/src'
 make -C ../rmutil
